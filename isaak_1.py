@@ -29,4 +29,4 @@ def rev_json_from_mp3(file_name):
 
     print('done (:')
 
-#rev_json_from_mp3(file_name)
+rev_json_from_mp3(file_name)
